@@ -13,9 +13,9 @@ status:
   # icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: RecSys 2024
+  url: "https://recsys.acm.org/recsys24/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: AltRecSys Organizing Committee (Alan, Michael, and Sole)
