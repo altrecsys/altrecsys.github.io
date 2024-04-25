@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Organizers
+title: AltRecSys
 
 # Is this the primary user of the site?
 superuser: true

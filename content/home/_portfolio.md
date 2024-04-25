@@ -1,4 +1,7 @@
 ---
+# disabled for now
+# once we have submissions, rename to 'portfolio.md' to enable!
+
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
 # See https://docs.hugoblox.com/widget/portfolio/
@@ -6,6 +9,7 @@ widget: portfolio
 
 # This file represents a page section.
 headless: true
+active: false
 
 # Order that this section appears on the page.
 weight: 20
@@ -25,15 +29,15 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+  # filter_button:
+  #   - name: All
+  #     tag: '*'
+  #   - name: Machine Learning
+  #     tag: ML
+  #   - name: Computer Vision
+  #     tag: CV
+  #   - name: NLP
+  #     tag: NLP
 
 design:
   columns: '1'
