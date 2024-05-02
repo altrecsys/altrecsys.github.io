@@ -22,4 +22,4 @@ We invite two forms of submissions:
 Submissions will be editorially reviewed to curate a set of abstracts and videos that will prompt a diverse and vibrant discussion in the workshop
 
 
-Stay tuned for submission details!
+<i> Stay tuned for submission details! </i>
