@@ -7,7 +7,7 @@ The AltRecSys workshop provides a venue to discuss interesting, preliminary, off
 
 AltRecSys aims to serve as a collaborative forum where researchers, (industry) practitioners, and other associated stakeholders can exchange ideas and together identify areas of study and new questions to expand the discussions and research agendas of the RecSys community in future years. To that end, we invite contributions responding to the following theme:
 
- <div style="text-align:center;"><span style="color:#3b3b3b;font-size:12px;"><i><strong>“What are the vital questions, needs, or opportunities the RecSys community is currently overlooking?”</strong></i></span><br>&nbsp;</div>
+ <div style="text-align:center;"><span style="color:#3b3b3b;"><i><strong>“What are the vital questions, needs, or opportunities the RecSys community is currently overlooking?”</strong></i></span><br>&nbsp;</div>
 
 Remember that AltRecSys not meant to be a platform to disseminate the latest research advances in the RecSys area. 
 Instead, fitting contributions to this workshop may include, but are not limited to:
@@ -21,6 +21,5 @@ We invite two forms of submissions:
 - <b>Short videos</b> of up to 3 minutes.
 Submissions will be editorially reviewed to curate a set of abstracts and videos that will prompt a diverse and vibrant discussion in the workshop
 
-<div style="text-align:center;"><span style="color:#800000;font-size:12px;">&lt;i&gt;</span><span style="color:#3b3b3b;font-size:12px;"> Stay tuned for submission details! </span><span style="color:#800000;font-size:12px;">&lt;/i&gt;</span></div>
+<div style="text-align:center;"><span style="color:#800000;">&lt;i&gt;</span><span style="color:#3b3b3b;"> Stay tuned for submission details! </span><span style="color:#800000;">&lt;/i&gt;</span></div>
 
-<i> Stay tuned for submission details! </i>
