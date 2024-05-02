@@ -21,5 +21,6 @@ We invite two forms of submissions:
 - <b>Short videos</b> of up to 3 minutes.
 Submissions will be editorially reviewed to curate a set of abstracts and videos that will prompt a diverse and vibrant discussion in the workshop
 
-<div style="text-align:center;"><span style="color:#800000;">&lt;i&gt;</span><span style="color:#3b3b3b;"> Stay tuned for submission details! </span><span style="color:#800000;">&lt;/i&gt;</span></div>
+ <div style="text-align:center;"><span style="color:#3b3b3b;"><i><strong>Stay tuned for submission details!</strong></i></span><br>&nbsp;</div>
+
 
