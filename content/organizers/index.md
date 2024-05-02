@@ -1,5 +1,5 @@
 ---
-title: Oragnizers
+title: Organizers
 share: false
 ---
 
