@@ -10,6 +10,6 @@ main:
   - name: Organizers
     url: organizers/
     weight: 15
-  - name: Submit
-    url: submit/
+  - name: Call
+    url: call/
     weight: 20
