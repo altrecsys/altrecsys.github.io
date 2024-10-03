@@ -6,7 +6,7 @@ share: false
 The AltRecSys workshop will be held on Friday, October 18, 14:15-17:45 in [Room L at the Politecnico di Bari](https://recsys.acm.org/recsys24/location/#campus).
 
 * 14:15-14:25: Chairs' Welcome
-* 14:25-15:00 Highlight Talk:  The Shift from Userist to Post-Userist Recommendation in the Age of Generative AI - Robin Burke
+* 14:25-15:00 Highlight Talk:  Post-Userist Recommender Systems: A Manifesto - Robin Burke
 * 15:00-15:45 Discussion
 * 15:45-16:15 Break
 * 16:15 -16:30 Lightning talks
