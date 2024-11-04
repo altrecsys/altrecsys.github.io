@@ -22,13 +22,13 @@ The AltRecSys workshop will be held on Friday, October 18, 14:15-17:45 in [Room 
     -- Robin Burke, Information Science, University of Colorado, Boulder; Morgan Sylvester, Independent Scholar, Louisville, Colorado
 
 Abstract: 
-We define userist recommendation as an approach to recommender systems framed in terms of the relation between the user and system. Post-userist recommendation posits a larger field of relations in which multiple stakeholders are embedded and distinguishes a recommendation function (which can potentially connect creators with audiences) from a generative one. We argue that in the era of generative media, userist recommendation becomes indistinguishable from personalized media generation, and therefore post-userist recommendation is the only path forward for recommender systems research.
+We define userist recommendation as an approach to recommender systems framed in terms of the relation between the user and system. Post-userist recommendation posits a larger field of relations in which multiple stakeholders are embedded and distinguishes a recommendation function (which can potentially connect creators with audiences) from a generative one. We argue that in the era of generative media, userist recommendation becomes indistinguishable from personalized media generation, and therefore post-userist recommendation is the only path forward for recommender systems research. [Extended Version](https://arxiv.org/abs/2410.11870)
   
 * _**Let’s Talk about Sex, Mr ChatBot**_
   --   Kim Falk, Binary Vikings & Robin Verachtert, Binary Vikings
 
 Abstract: Almost any news source, whether a regular newspaper, LinkedIn, or similar, will tell you these days that ChatGPT and LLMs will generally solve any problem, steal your job and do a better job. We see one blog post after another showing how to create a cold start recommenders with an LLM without providing user data that outperforms SOTA algorithms. The LLM just “knows.” However, this is only true for domains and topics often discussed on the internet and topics falling within the ethics and rules of the country where the model was created or indeed, the company itself. As soon as you move away from those, you start having problems. 
-Sex toys and Scandinavian languages might both be extreme examples, but it does illustrate problems and biases which are introduced into our systems.
+Sex toys and Scandinavian languages might both be extreme examples, but it does illustrate problems and biases which are introduced into our systems. [Extended Version](https://kimfalk.org/2024/10/20/lets-talk-about-sex-mr-chatbot/)
 
 * _**A Centralized Configuration Driven Modeling Framework for Personalization in Banking and Finance**_
     -- Lucas Vinh Tran, JP Morgan Chase & Jay Katukuri, JP Morgan Chase
@@ -50,6 +50,6 @@ Georg Vogeler Department of Digital Humanities, University of Graz, Graz, Austri
 Abstract: 
 Recommender systems (RecSys) have become indispensable tools in various domains. However, applying RecSys within humanities and historical research presents unique challenges. Unlike conventional implementations focused on consumer goods or media, RecSys in these fields must navigate the complexities of cultural records, such as historical legal documents, e.g., charters. Three main points highlight why this needs special consideration:
 Firstly, unique item characteristics: Charters are distinct due to their varied, high-dimensional metadata, public value as cultural heritage, and need for context-sensitive interpretations. Secondly, distinctive user behavior: Historians' information-seeking behavior is crucial for RecSys design in this domain. Thirdly, multi-stakeholder complexity: Implementing RecSys involves navigating interests of multiple stakeholders with distinct and sometimes conflicting goals. 
-In summary, deploying effective RecSys in humanities and historical research demands tackling three major challenges: addressing historical document facets, distinctive scholarly user behaviors, and conflicting goals in a non-conventional multi-stakeholder setting. Success could significantly enhance historical scholarship and cultural heritage curation, and deepen our understanding of the past. [Extended Version] (https://arxiv.org/abs/2410.20909)
+In summary, deploying effective RecSys in humanities and historical research demands tackling three major challenges: addressing historical document facets, distinctive scholarly user behaviors, and conflicting goals in a non-conventional multi-stakeholder setting. Success could significantly enhance historical scholarship and cultural heritage curation, and deepen our understanding of the past. [Extended Version](https://arxiv.org/abs/2410.20909)
 
   
