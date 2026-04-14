@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://jedi.inertial.science"
+base_url = "https://altrecsys.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -23,17 +23,31 @@ name = "SIGIR 2026"
 url = "/sigir2026/"
 
 [extra.title]
-title = "Justice, Emancipation, Democracy, and Infromation Access"
-subtitles = ["A workshop at SIGIR 2026"]
+title = "The AltRecSys Workshop on Alternative, Unexpected, and Critical Ideas in Recommendation"
+# subtitles = ["A workshop at RecSys 2024 & 2026"]
 
 [[extra.header_pages]]
 name = "Home"
 url = "/"
 
+[[extra.header_pages]]
+name = "RecSys 2026"
+url = "/recsys26/"
+
+
+[[extra.header_pages]]
+name = "RecSys 2024"
+url = "/recsys24/"
+
 [[extra.buttons]]
 name = "Home"
 url = "/"
 
 [[extra.buttons]]
-name = "SIGIR 2026"
-url = "/sigir2026/"
+name = "RecSys 2026"
+url = "/recsys26/"
+
+
+[[extra.buttons]]
+name = "RecSys 2024"
+url = "/recsys24/"
