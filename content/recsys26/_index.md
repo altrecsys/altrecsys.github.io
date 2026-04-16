@@ -2,7 +2,9 @@
 title: AltRecSys at RecSys 2026
 ---
 
-AltRecSys is returning to RecSys 2026!
+[RecSys26]: https://recsys.acm.org/recsys26/
+
+AltRecSys is returning to [RecSys 2026][RecSys26]!
 
 # Organizers
 
@@ -14,7 +16,7 @@ AltRecSys is returning to RecSys 2026!
     ],
     urls = [
         "https://alansaid.com",
-        "https://md.ekstrandoml.net",
+        "https://md.ekstrandom.net",
         "https://solepera.github.io",
     ],
     image_dir = "organizers") }}
