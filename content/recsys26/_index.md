@@ -11,13 +11,13 @@ AltRecSys is back—and it’s time to look sideways. As ACM RecSys turns 20, Al
 
 {{ grid(
     text = [
-        ["Alan Said","University of Gothenburg"],
+     ["Sole Pera","TU Delft"],  
         ["Michael Ekstrand", "Drexel University"],
-        ["Sole Pera","TU Delft"],
+      ["Alan Said","University of Gothenburg"],   
     ],
     urls = [
-        "https://alansaid.com",
+       "https://solepera.github.io", 
         "https://md.ekstrandom.net",
-        "https://solepera.github.io",
+        "https://alansaid.com",
     ],
     image_dir = "organizers") }}
