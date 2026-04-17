@@ -5,6 +5,6 @@ share: false
 
 The AltRecSys workshop is organized by:
 
-- Alan Said
-- Michael Ekstrand
 - Sole Pera
+- Michael Ekstrand
+- Alan Said
