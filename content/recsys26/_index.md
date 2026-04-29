@@ -11,9 +11,10 @@ AltRecSys is back at [RecSys 2026][RecSys26] — and it’s time to look sideway
 
 AltRecSys continues to serve as a collaborative forum where researchers and practitioners can exchange ideas, challenge defaults, and collectively reimagine recommender systems research and practice.  
 To guide this second edition, we explicitly center the workshop around three guiding questions:
-_* What vital questions, structural blind spots, or long‑term opportunities has the RecSys community overlooked over the past 20 years?
+
+* What vital questions, structural blind spots, or long‑term opportunities has the RecSys community overlooked over the past 20 years?
 * Which emerging or neglected use cases, methodological paradigms, or evaluation practices challenge our standard ways of doing RecSys research, and how might embracing them reshape the field’s future directions?
-* What assumptions have constrained the development of the recommendation community and/or technology, and what might alternate paths look like?_
+* What assumptions have constrained the development of the recommendation community and/or technology, and what might alternate paths look like?
 
 Fitting contributions to this workshop include, but are not limited to:
 * Interesting and/or provocative ideas that question dominant framings of recommendation, personalization, utility, or system goals, and that are too preliminary or unconventional for a traditional research paper.
