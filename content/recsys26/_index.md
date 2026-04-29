@@ -6,23 +6,9 @@ title: AltRecSys at RecSys 2026
 [SubmissionForm]: https://forms.gle/tckEbiKY4KUEBv2L9
 
 AltRecSys is back at [RecSys 2026][RecSys26] — and it’s time to look sideways. As ACM RecSys turns 20, AltRecSys 2026 asks what the field’s success, scale, and institutionalization may have pushed out of view. This workshop creates space for offbeat, critical, and unconventional work that questions dominant assumptions and unsettles familiar narratives in recommender systems research and practice. Together, we ask: What have we not been looking at? And where might the field go if we dared to look there now?
-
-# Organizers
-
-{{ grid(
-    text = [
-     ["Sole Pera","TU Delft"],  
-        ["Michael Ekstrand", "Drexel University"],
-      ["Alan Said","University of Gothenburg"],   
-    ],
-    urls = [
-       "https://solepera.github.io", 
-        "https://md.ekstrandom.net",
-        "https://alansaid.com",
-    ],
-    image_dir = "organizers") }}
     
 # Call for Opinions
+
 AltRecSys continues to serve as a collaborative forum where researchers and practitioners can exchange ideas, challenge defaults, and collectively reimagine recommender systems research and practice.  
 To guide this second edition, we explicitly center the workshop around three guiding questions:
 _* What vital questions, structural blind spots, or long‑term opportunities has the RecSys community overlooked over the past 20 years?
@@ -56,6 +42,22 @@ This will be a _highly interactive workshop_. Accepted contributions will be sha
 
 Please note that at least one author of each accepted contribution must register for the conference by the main conference early‑bird registration deadline, currently planned for August 17, 2026 (see main conference website).
 
+# Organizers
+
+{{ grid(
+    text = [
+     ["Sole Pera","TU Delft"],  
+        ["Michael Ekstrand", "Drexel University"],
+      ["Alan Said","University of Gothenburg"],   
+    ],
+    urls = [
+       "https://solepera.github.io", 
+        "https://md.ekstrandom.net",
+        "https://alansaid.com",
+    ],
+    image_dir = "organizers") }}
+
 # Contact
+
 For more information or questions about the submission process, contact workshop organizers: **altrecsys@fastmail.com**
 
