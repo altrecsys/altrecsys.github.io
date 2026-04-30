@@ -28,8 +28,7 @@ To lower barriers to participation and encourage creativity, we invite contribut
 * Short videos of up to 3 minutes.
 * Podcasts of up to 20 minutes.
 * Panel, where you propose up to 3 panelists and a theme.
-* Other creative or experimental formats aligned with the spirit of the workshop
-* In the spirit of AltRecSys, we are also open to creative and unconventional submission styles. 
+* Other creative or unconventional formats aligned with the spirit of the workshop
 
 All submissions will be editorially reviewed by the workshop organizers, who will curate a set of contributions aimed at _fostering critical reflection, constructive discomfort, and forward‑looking dialogue_, rather than polished technical results. Curation will ultimately focus on identifying a small set of contributions that collectively stimulate diverse, vibrant discussion during the workshop.
 
