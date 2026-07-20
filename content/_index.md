@@ -1,5 +1,9 @@
 ---
 title: AltRecSys Workshop
+extra:
+  card:
+    url: unsplash-ducks-banner.webp
+    large: true
 ---
 
 [RecSys]: https://recsys.acm.org/

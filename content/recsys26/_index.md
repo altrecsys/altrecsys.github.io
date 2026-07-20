@@ -1,5 +1,11 @@
 ---
 title: AltRecSys at RecSys 2026
+description: >
+  Second Workshop on Alternative, Unexpected, and Critical Ideas in Recommendation at RecSys 2026.
+extra:
+  card:
+    url: unsplash-ducks-banner.webp
+    large: true
 ---
 
 [RecSys26]: https://recsys.acm.org/recsys26/

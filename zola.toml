@@ -18,11 +18,7 @@ theme = "catppuccin-mocha"
 
 [extra]
 # Put all your custom variables here
-header_menu_name = "venues"
-
-[[extra.menus.venues]]
-name = "SIGIR 2026"
-url = "/sigir2026/"
+# header_menu_name = "venues"
 
 [extra.title]
 title = "The AltRecSys Workshop on Alternative, Unexpected, and Critical Ideas in Recommendation"
