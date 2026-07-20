@@ -5,6 +5,10 @@ title: AltRecSys at RecSys 2026
 [RecSys26]: https://recsys.acm.org/recsys26/
 [SubmissionForm]: https://forms.gle/tckEbiKY4KUEBv2L9
 
+> [!IMPORTANT]
+>
+> The deadline is extended to **July 31**.
+
 AltRecSys is back at [RecSys 2026][RecSys26] — and it’s time to look sideways. As ACM RecSys turns 20, AltRecSys 2026 asks what the field’s success, scale, and institutionalization may have pushed out of view. This workshop creates space for offbeat, critical, and unconventional work that questions dominant assumptions and unsettles familiar narratives in recommender systems research and practice. Together, we ask: What have we not been looking at? And where might the field go if we dared to look there now?
     
 # Call for Opinions
@@ -36,7 +40,7 @@ This will be a _highly interactive workshop_. Accepted contributions will be sha
 
 **Important Dates**
 
-* Submission deadline: July 20th, 2026
+* Submission deadline: July ~~20th~~ **31st**, 2026
 * Notification: August 14, 2026
 * Final version deadline: August 28, 2026
 
@@ -60,4 +64,3 @@ Please note that at least one author of each accepted contribution must register
 # Contact
 
 For more information or questions about the submission process, contact workshop organizers: **altrecsys@fastmail.com**
-

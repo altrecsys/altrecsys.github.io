@@ -10,6 +10,8 @@ build_search_index = false
 theme = "academic-workshop"
 
 [markdown]
+definition_list = true
+github_alerts = true
 
 [markdown.highlighting]
 theme = "catppuccin-mocha"

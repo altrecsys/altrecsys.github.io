@@ -1,0 +1,15 @@
+@import "../themes/academic-workshop/sass/main.scss";
+
+.markdown-alert-important {
+  border: solid 3px #3465a4;
+  background-color: #3465a4;
+  border-radius: 2px 10px 10px 2px;
+  padding-left: 6px;
+
+  p {
+    border-radius: 0px 8px 8px 0px;
+    margin: 0;
+    padding: 1ex;
+    background-color: color-mix(in oklab, #729fcf 20%, white 80%);
+  }
+}
