@@ -1,5 +1,7 @@
 ---
 title: AltRecSys Workshop
+description: >
+  RecSys workshop series on alternative perspectives in recommender systems.
 extra:
   card:
     url: unsplash-ducks-banner.webp
