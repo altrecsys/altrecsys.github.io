@@ -10,6 +10,8 @@ $ mise install
 $ mise run dev-server
 ```
 
+Alternatively, you can directly install Zola and run `zola serve.
+
 [Zola]: https://www.getzola.org/
 [theme]: https://github.com/aterenin/academic-workshop
 [Mise]: https://mise.jdx.dev/
