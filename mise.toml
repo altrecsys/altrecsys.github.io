@@ -1,3 +1,8 @@
 [tools]
 "github:sass/dart-sass" = "latest"
 zola = "latest"
+
+[tasks]
+dev-server = "zola serve"
+build = "zola build"
+clean = "rm -rf public"
