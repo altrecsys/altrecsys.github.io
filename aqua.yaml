@@ -13,3 +13,4 @@ registries:
 packages:
   - name: getzola/zola@v0.22.1
   - name: sass/dart-sass@1.104.1
+  - name: casey/just@1.58.0
