@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.124.1'
+  WC_HUGO_VERSION: "0.124.1"
 
 on:
   # Trigger the workflow every time you push to the `main` branch
@@ -31,9 +31,9 @@ jobs:
           fetch-depth: 0
           submodules: recursive
 
-      - uses: jdx/mise-action@v4
+      - uses: aquaproj/aqua-installer@96a9bc20066c5bf5e275b41019cfc165b25f4e2e # v4.0.5
         with:
-          install: true
+          aqua_version: v2.43.1
 
       - name: Setup Pages
         id: pages
