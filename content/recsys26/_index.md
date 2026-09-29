@@ -11,10 +11,6 @@ extra:
 [RecSys26]: https://recsys.acm.org/recsys26/
 [SubmissionForm]: https://forms.gle/tckEbiKY4KUEBv2L9
 
-> [!IMPORTANT]
->
-> The deadline is extended to **July 31**.
-
 AltRecSys is back at [RecSys 2026][RecSys26] — and it’s time to look sideways. As ACM RecSys turns 20, AltRecSys 2026 asks what the field’s success, scale, and institutionalization may have pushed out of view. This workshop creates space for offbeat, critical, and unconventional work that questions dominant assumptions and unsettles familiar narratives in recommender systems research and practice. Together, we ask: What have we not been looking at? And where might the field go if we dared to look there now?
 
 # Program and Schedule
@@ -23,7 +19,6 @@ The workshop will be held on Oct. 2, 2026, at 1:30 PM.
 
 1. 13.30-13.45: Chairs' Welcome
 2. 13:45-14:00: Lightning talks 1  (5 min/ea)
-  - When the Users Are Citizens: Recommendation as Agenda-Setting Power --- Carina Hausladen
   - Communalization --- Anas Buhayh 
   - When Worlds Collide: The Joined Worlds Problem in Curated Social Media --- Ashlee Milton
 3. 14:00-14:20:  Discussion
@@ -33,7 +28,10 @@ The workshop will be held on Oct. 2, 2026, at 1:30 PM.
   - The Illusion of Value in Recommender Systems Research --- Bart Goethals
 5. 14:35-15:00: Discussion
 6. 15-15:30: Break
-7. 15:30-16:45 Provocations and Interactive Discussion
+7. 15:30-16:45 Panel and Discussion
+  - Kim Falk
+  - Christine Bauer
+  - … more panelists TBD
 8. 16:45-17 Wrapup
     
 # Call for Opinions
