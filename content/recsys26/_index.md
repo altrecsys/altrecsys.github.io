@@ -32,6 +32,7 @@ The workshop will be held on Oct. 2, 2026, at 1:30 PM.
   - Kim Falk
   - Christine Bauer
   - Ladislav Peska
+  - Chen Karako-Argaman
   - … more panelists TBD
 8. 16:45-17 Wrapup
     
