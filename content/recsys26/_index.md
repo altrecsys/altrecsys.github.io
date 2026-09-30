@@ -33,7 +33,8 @@ The workshop will be held on Oct. 2, 2026, at 1:30 PM.
   - Christine Bauer
   - Ladislav Peska
   - Chen Karako-Argaman
-  - … more panelists TBD
+  - Arnie Bhadury
+  - Marta Moscati
 8. 16:45-17 Wrapup
     
 # Call for Opinions
